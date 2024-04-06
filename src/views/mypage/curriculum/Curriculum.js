@@ -11,7 +11,7 @@ const Typography = () => {
           <DocsLink href="https://coreui.io/docs/content/typography/" />
         </CCardHeader>
         <CCardBody>
-          <CImage fluid src="https://chdaud78.github.io/Creative/src/assets/images/road.jpg" />
+          <CImage fluid src="https://chdaud78.github.io/Creative/assets/images/road.jpg" />
         </CCardBody>
       </CCard>
     </>
